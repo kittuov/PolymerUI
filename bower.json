@@ -1,0 +1,29 @@
+{
+  "name": "Polymer",
+  "version": "0.0.0",
+  "authors": [
+    "kittuov <krishnachaitanya.kornepati@gmail.com>"
+  ],
+  "main": "main.php",
+  "keywords": [
+    "Polymer",
+    "Ktj",
+    "kshitij"
+  ],
+  "license": "MIT",
+  "homepage": "ktj.in/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-toolbar": "polymer/core-toolbar#~0.5.5",
+    "core-header-panel": "polymer/core-header-panel#~0.5.5",
+    "paper-button": "polymer/paper-button#~0.5.5",
+    "paper-icon-button": "polymer/paper-icon-button#~0.5.5",
+    "paper-menu-button": "polymer/paper-menu-button#~0.5.5"
+  }
+}
